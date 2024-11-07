@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\ShapeAreaCalculator.csproj" />
+    <ProjectReference Include="..\ShapeAreaCalculator\ShapeAreaCalculator.csproj" />
   </ItemGroup>
 
   <ItemGroup>
